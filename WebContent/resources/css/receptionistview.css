@@ -1,0 +1,41 @@
+ .rowpadding{
+            margin-right: 0; 
+     margin-left: 0; 
+     padding-top: 92px;
+
+    }
+  .form{
+  	padding: 30px;
+  }
+  .space{
+     padding: 20px;
+  }
+  .walkinid{
+  	padding-right: 20px;
+  }
+  .NAme{
+     padding-right: 50px;
+  }
+  .frmhide{
+  	  display: none;
+  }
+  .frmgrup{
+  	display: ;
+
+  	padding: 30px;
+  }
+  body{/*background-color: whitesmoke;*/
+
+      font: 14px/1.571em Helvetica, Arial, sans-serif;
+    background: transparent url(../images/bg2.png) repeat fixed;
+    /*border-top: 4px solid #2c2f32;
+    color: #414244;*/
+    /* min-width: 980px; */
+    -webkit-font-smoothing: antialiased;
+    word-wrap: break-word;
+  }
+  .hr{
+height: 20px;
+background: url(../images/hr-stars.png) no-repeat center;
+border: none;
+  }

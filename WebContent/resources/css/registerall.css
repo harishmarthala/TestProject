@@ -1,0 +1,33 @@
+.space{
+     padding: 20px;
+  }
+    body{/*background-color: whitesmoke;*/
+
+      font: 14px/1.571em Helvetica, Arial, sans-serif;
+    background: transparent url(../images/bg2.png) repeat fixed;
+   /* border-top: 4px solid #2c2f32;
+    color: #414244;*/
+    /* min-width: 980px; */
+    -webkit-font-smoothing: antialiased;
+    word-wrap: break-word;
+  }
+  .textar{
+
+    resize: none;
+  }
+ .line{
+    border-bottom: 1px solid;
+    position: relative;
+    top: 52px;
+    width: 148px;
+    right: 16px;
+}
+ .remaingamunt{
+        padding-top: 15px;
+ }
+ .btn{
+ 
+ position: relative;
+ top: 20px;
+ }
+ 

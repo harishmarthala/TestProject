@@ -1,0 +1,21 @@
+      body{/*background-color: whitesmoke;*/
+
+      font: 14px/1.571em Helvetica, Arial, sans-serif;
+    background: transparent url(../images/bg2.png) repeat fixed;
+   /* border-top: 4px solid #2c2f32;
+    color: #414244;*/
+    /* min-width: 980px; */
+    -webkit-font-smoothing: antialiased;
+    word-wrap: break-word;
+  }
+  .padding
+  {
+    padding: 22px;
+  }
+  .row {
+    margin-right: 0;
+    margin-left: 0;
+}
+.space{
+         padding-top: 132px;
+  }

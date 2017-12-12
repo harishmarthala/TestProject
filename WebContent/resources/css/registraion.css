@@ -1,0 +1,44 @@
+ body{/*background-color: whitesmoke;*/
+
+      font: 14px/1.571em Helvetica, Arial, sans-serif;
+    background: transparent url(../images/bg2.png) repeat fixed;
+    border-top: 4px solid #2c2f32;
+    color: #414244;
+    /* min-width: 980px; */
+    -webkit-font-smoothing: antialiased;
+    word-wrap: break-word;
+  }
+#myNavbar{
+  min-height: 90px;
+}
+.regbdy{
+  position: relative;
+  top: 150px;
+}
+   .table>thead>tr>th {
+    vertical-align: bottom;
+    border-bottom: none;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 8px;
+    line-height: 1.42857143;
+   vertical-align: none; 
+    border-top: none;
+    
+}
+ .panel-title{
+  text-align:center;
+  margin-bottom: 10px;
+      font-size: 24px;
+ }
+.textareafield{
+  resize:none;
+}
+.wrapper{
+      
+}
+.photo{
+        width: 300px;
+ 
+  }

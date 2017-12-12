@@ -1,0 +1,66 @@
+
+  .space{
+         padding-top: 132px;
+  }
+    body{/*background-color: whitesmoke;*/
+
+      font: 14px/1.571em Helvetica, Arial, sans-serif;
+    background: transparent url(../images/bg2.png) repeat fixed;
+  /*  border-top: 4px solid #2c2f32;
+    color: #414244;*/
+    /* min-width: 980px; */
+    -webkit-font-smoothing: antialiased;
+    word-wrap: break-word;
+  }
+    .hr{
+height: 20px;
+background: url(../images/hr-stars.png) no-repeat center;
+border: none;
+  }
+  .table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+    padding: 15px;
+  
+    border-top: none;
+}
+.image{
+	width :100%;
+}
+.pick{
+  width: 150px;
+    border: 2px solid;
+}
+.Signature{
+position: relative;
+    left: 913px;
+    }
+    
+    /* Medium Devices, Desktops */
+@media(max-width:991px) {
+     
+         .pick{
+  width: 150px;
+   
+    border: 2px solid;
+}
+.Signature{
+position: relative;
+    left: 913px;
+    }
+     
+     
+	}
+    
+    
+     @media only screen and (max-width : 320px) {
+     
+     .pick{
+  width: 150px;
+    height: 150px;
+    border: 2px solid;
+}
+.Signature{
+position: relative;
+    left: 913px;
+    }
+
+    }
