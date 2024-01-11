@@ -4,7 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Controller;
 /* ************************************************************************************************************************** 
- * ControllerName:LoginController  commit 3
+ * ControllerName:LoginController  commit 4
  * Method:
  * Autowired Classes: No
  * LoggerFile:Yes
